@@ -1,0 +1,6 @@
+State is an object a that we use to keep track and respond to user input
+Each component has it own instance of state.
+New component will have it own state.
+When ever we update our state it causes our component and any nested component
+to re-render. This is how we update our view with new data in the app.
+When we use state in a component we should initialize it a reasonable value.
